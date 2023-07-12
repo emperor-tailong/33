@@ -3,3 +3,5 @@ def ff(x):
     y =x +5
     print(y)
 ff(50)
+
+print('salamu alaikum')
